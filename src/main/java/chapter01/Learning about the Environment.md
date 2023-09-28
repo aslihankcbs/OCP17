@@ -22,5 +22,5 @@ full JDK. The JRE was a subset of the JDK that was used for running a program bu
 not compile one. Now, people can use the full JDK when running a Java program.
 
 ### Check Your Version of Java
-`javac -version`
-`java -version`
+- `javac -version`
+- `java -version`
